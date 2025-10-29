@@ -50,3 +50,4 @@ jobs:
           tags: ${{ secrets.DOCKERHUB_USERNAME }}/python-ci-demo:latest
 
           #trigger build
+          #trigger
